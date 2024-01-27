@@ -2,8 +2,6 @@ title: Goodbye Vietnam 1975
 author:
   name1: Kiet Nguyen
   email1: kietcannguyen@gmail.com
-  name2: Hieu Nguyen
-  email2: hieucannguyen1@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
