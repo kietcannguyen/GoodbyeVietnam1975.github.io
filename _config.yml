@@ -20,7 +20,7 @@ theme: minima
 #remote_theme: jekyll/minima
 
 plugins:
-
+  []
 
 # Theme-specific settings
 
