@@ -15,7 +15,6 @@ description: >
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-remote_theme: jekyll/minima
 theme: minima
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
@@ -33,7 +32,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.md
-  - our-story.md
+  - our_story.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
