@@ -31,3 +31,5 @@ I want to have our family story written down for the present and future generati
 It is an incredible story. This is our family history.
 
 Thank you Tram Anh, Duan, and Kim for being my support and capturing the stories with me. 
+
+[jekyll-organization]: https://github.com/jekyll
