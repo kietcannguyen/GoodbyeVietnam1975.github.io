@@ -24,6 +24,7 @@ permalink: /about/
 | Dinh Thi Kim Dung      | 16       | Hoi & Hung’s 6th child - daughter                                                     |
 | Trinh Thi Ngoc         | 12       | Nong’s sister                                                                         |
 | Ho Dinh Sang           | 24       | Republic of Vietnam Air Force (RVNAF) officer, Phuong’s future husband, family friend |
+
 *Dinh family
 
 Collective stories from Tho, Thuy, Nong, Vuong, Sang, Phuong, Son, Trang, Dung, and Ngoc point of view.
