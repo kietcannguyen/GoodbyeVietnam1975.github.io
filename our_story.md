@@ -60,7 +60,7 @@ Map of Vietnam and South Vietnam Air Forces bases.
 
 Highlighted in yellow are the Air Force base and the family journey.
 
-![Local Image](/images/image11.png)
+![Local Image](/images/image11.png){:width="300px" height="500px"}
 
 ## Introduction
 1975 will forever change the future lives of over 100,000 South Vietnamese people that fled their country and millions more over the next several years. North Vietnam Communist also known as Viet Cong (VC) defeated South Vietnam’s government and took over major cities with the help of the Communist party by Russia and China.  America was in protest of the Vietnam war for years. President Gerald Ford and other US leaderships started to evacuate the US military and ended the Vietnam war on April 30, 1975.
@@ -90,7 +90,7 @@ News about the VC defeating Da Nang and heading to Nha Trang.
 **Mid-morning** – Nong was an Air Force Captain. He arrived at the Air Force base and was on flight duty. 
 At the house, out of nowhere many people ran past the house stating the VCs are here. They witnessed people getting killed by the VC and even suicide for fear of being captured by them. Hoi asked Vuong what was Nong’s plan. She mentioned to stay home, and he will get them. Hoi did not want to wait. He was the police chief of Nha Trang and has 2 sons-in-law in the South Vietnam Air Force. He had a history with the Vietnamese French government. The neighborhood the family lived in was predominantly VC. If the family were to be captured by the VC, he told the family that they would be taking poison and killing themselves. The other option instead of taking the poison, he stated they all must leave Nha Trang immediately. Hoi was able to get 2 cyclo. Cyclo is a three-wheel bicycle taxi. As the cyclists took the family to Nha Trang Air Force base, their pet dog wanted to come along and jumped into one of the cyclo. Someone pushed the dog off and left it behind. 
 
-![Local Image](/images/image14.png) ![Local Image](/images/image17.png)
+![Local Image](/images/image14.png){:width="300px"} ![Local Image](/images/image17.png){:width="300px"}
 
 Nong returned from his flight later that morning. He was informed that the VC attacked Nha Trang. He immediately got a vehicle and left to go home to get the family. When he got to the house, everyone was gone. He drove back to the Air Force base. There were crowds of people outside the Air Force base wanting to go in and fly out of Nha Trang. The family just arrived by cyclo. Nong got there in time to bring the family inside the base. When the family were inside, they all crowded to wait for a plane to leave Nha Trang. Nong mentioned to Vuong he was not allowed to leave since he was an Air Force officer. He left them to head to his office to be with his unit.
 
