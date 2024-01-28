@@ -56,8 +56,9 @@ Thank you Tram Anh, Duan, and Kim for being my support and capturing the stories
 | May | Family transferred from Guam to Fort Chaffee, Arkansas.                       |
 | June | Svea Lutheran Church and Faith Lutheran Church sponsored the families.                       |
 
-Map of Vietnam and SOuth Vietnam Air Forces bases,
-Highlighted in yellow ar ethe Air Force base and the family journey.
+Map of Vietnam and South Vietnam Air Forces bases.
+
+Highlighted in yellow are the Air Force base and the family journey.
 
 ![Local Image](/images/image11.png)
 
