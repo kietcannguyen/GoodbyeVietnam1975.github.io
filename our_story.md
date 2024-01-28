@@ -71,7 +71,7 @@ The 16 South Vietnamese people mentioned in this story never planned to leave th
 ### Da Nang
 **Morning** - Tho was with his nephew, Le, that morning riding on the Suzuki bike. All of a sudden, the rockets were falling from the sky. The VC had taken action to attack Da Nang. Tho asked Le to come with him to Da Nang Air Force base. He can fly them out of Da Nang. Le declined the offer and stayed back to be with his family. Tho knew he could not stay. This was the sign that he will not be coming back to this city again. He gave Le his Suzuki bike. Once Tho arrived at Da Nang Air Force base, South Vietnam Air Force high ranking military officers had already abandoned and flew off on larger planes. The few planes left on base were small Cessna. Hoc was Tho’s friend and a plane mechanic. Hoc made a deal with Tho months ago that if something were to happen on base then he was to have a plane ready for them. They would escape and leave together since Tho was a pilot and knew how to operate a plane. That day, Hoc had a Cessna O-1 plane ready for Tho’s arrival.  Cessna O-1 seats for 2 people. Hoc and 4 other men crammed into the plane. As Tho was taking off on the runway, he noticed the VC had wired explosives near the area.  He had very little runway for the plane to take off. If he hit the explosive, the plane would explode. If he pulled up the plane without enough force, the plane would crash. He was able to gradually lift the plane barely above the explosives and safely flew to Nha Trang.
 
-![Local Image](/images/image16.png) ![Local Image](/images/image5.png){:width="300px"}
+![Local Image](/images/image16.png){:width="300px"} ![Local Image](/images/image5.png){:width="300px"}
 
 Photo: Tho next to the Cessna
 
