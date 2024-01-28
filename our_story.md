@@ -156,6 +156,8 @@ Most of the planes on base were damaged. There were still many South Vietnam Air
 
 ![Local Image](/images/image19.png)
 
+C-130 Hercules				C-7 Caribou
+
 **Late afternoon**: Duc flew the plane to Thailand at US Air Force base U-Tapao. Duc mentioned many years later to Tho and Nong that when he was about to land, the plane the landing wheel did not eject. He was so nervous of this danger, but the plane landed on its belly safely. 
 The Thailand government did not want Vietnamese refugees in their country, and the US had to transfer the refugees out. Later the same day, they were boarded onto a plane and flew into Guam since there was a US military refugee camp setup.
 
@@ -236,3 +238,7 @@ About three months in Melbourne, the Australian immigration gave him the news th
 
 ### June 30, 1980
 Son arrived at the Minneapolis, Minnesota, airport. Everyone except for Tho’s family (family moved to Texas) met Son at the airport. It was a joyful moment. The family was whole again.
+
+Map of the family journey in Asia fleeing Vietnam in 1975
+
+![Local Image](/image/image30.png)
