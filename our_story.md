@@ -241,4 +241,4 @@ Son arrived at the Minneapolis, Minnesota, airport. Everyone except for Tho’s 
 
 Map of the family journey in Asia fleeing Vietnam in 1975
 
-![Local Image](/images/image30.png)
+![Local Image](/images/image30.jpg)
