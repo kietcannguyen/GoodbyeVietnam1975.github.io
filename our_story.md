@@ -6,7 +6,7 @@ permalink: /story/
 
 ## Goodbye Vietnam War Story 1975
 
-![Local Image](image10.png)
+![Sample Image](image10.png)
 
 | Name                   | Age@1975 | Relation                                                                              |
 |------------------------|----------|---------------------------------------------------------------------------------------|
