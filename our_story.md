@@ -56,6 +56,11 @@ Thank you Tram Anh, Duan, and Kim for being my support and capturing the stories
 | May | Family transferred from Guam to Fort Chaffee, Arkansas.                       |
 | June | Svea Lutheran Church and Faith Lutheran Church sponsored the families.                       |
 
+Map of Vietnam and SOuth Vietnam Air Forces bases,
+Highlighted in yellow ar ethe Air Force base and the family journey.
+
+![Local Image](/images/image11.png)
+
 ## Introduction
 1975 will forever change the future lives of over 100,000 South Vietnamese people that fled their country and millions more over the next several years. North Vietnam Communist also known as Viet Cong (VC) defeated South Vietnam’s government and took over major cities with the help of the Communist party by Russia and China.  America was in protest of the Vietnam war for years. President Gerald Ford and other US leaderships started to evacuate the US military and ended the Vietnam war on April 30, 1975.
 
