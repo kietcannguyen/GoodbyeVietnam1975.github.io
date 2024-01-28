@@ -6,6 +6,8 @@ permalink: /story/
 
 ## Goodbye Vietnam War Story 1975
 
+![Local Image](image10.png)
+
 | Name                   | Age@1975 | Relation                                                                              |
 |------------------------|----------|---------------------------------------------------------------------------------------|
 | Dinh Xuan Hoi          | 56       | Dinh’s family patriarch. Married to Hung, father of 6 children                        |
