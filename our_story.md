@@ -40,6 +40,23 @@ Thank you Tram Anh, Duan, and Kim for being my support and capturing the stories
 
 ## Fall of Nha Trang
 
+|------------------------------------------------------------------------------------------------------------------------------------|
+| March 30 | Hoi, Hung, Nong, Vuong, Tram Anh, Doan, Duan, Phuong, Thuy, An, Trang, Dung, Ngoc, and Sang leaves Nha Trang.           |
+| March 31 | Family reunited in Saigon and stayed with Son.                                                                          |
+| April 28 | Family leaves Saigon except for Nong, Sang, Tho, and Son. Trang and Doan left behind from their flight.                 |
+| March 29 | Hoi, Hung, Nong, Vuong, Tram Anh, Duan, Phuong, Thuy, An, Dung, and Ngoc arrived at Con Son Island. Nong, Sang, Tho, Trang, and Doan left Saigon. Traveled to Thailand US Air Force base U-Tapao and transferred to Guam refugee camp.                                                                                                                |
+
+## Journey to United States
+
+|------------------------------------------------------------------------------------------------------------------------------------|
+| Early May | Tho leaves Da Nang Air Force base. He flies to Nha Trang and then to Tan Son Nhut Air Force base.                      |
+| Mid May   | Hoi, Hung, Nong, Vuong, Tram Anh, Duan, Phuong, Thuy, An, Dung, and Ngoc transferred from the Philippines to Guam.
+Family reunited.                                                                                                                     |
+| May | Family transferred from Guam to Fort Chaffee, Arkansas.                       |
+| June | Svea Lutheran Church and Faith Lutheran Church sponsored the families.                       |
+
+
+
 
 # Introduction
 1975 will forever change the future lives of over 100,000 South Vietnamese people that fled their country and millions more over the next several years. North Vietnam Communist also known as Viet Cong (VC) defeated South Vietnam’s government and took over major cities with the help of the Communist party by Russia and China.  America was in protest of the Vietnam war for years. President Gerald Ford and other US leaderships started to evacuate the US military and ended the Vietnam war on April 30, 1975. 
