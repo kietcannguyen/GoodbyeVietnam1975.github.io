@@ -50,8 +50,7 @@ Thank you Tram Anh, Duan, and Kim for being my support and capturing the stories
 
 |------------------------------------------------------------------------------------------------------------------------------------|
 | Early May | Tho leaves Da Nang Air Force base. He flies to Nha Trang and then to Tan Son Nhut Air Force base.                      |
-| Mid May   | Hoi, Hung, Nong, Vuong, Tram Anh, Duan, Phuong, Thuy, An, Dung, and Ngoc transferred from the Philippines to Guam.
-Family reunited.                                                                                                                     |
+| Mid May   | Hoi, Hung, Nong, Vuong, Tram Anh, Duan, Phuong, Thuy, An, Dung, and Ngoc transferred from the Philippines to Guam. Family reunited.                                                                                                                     |
 | May | Family transferred from Guam to Fort Chaffee, Arkansas.                       |
 | June | Svea Lutheran Church and Faith Lutheran Church sponsored the families.                       |
 
