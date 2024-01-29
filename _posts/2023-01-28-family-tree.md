@@ -28,16 +28,16 @@ categories: misc
       border: 1px solid black;
       padding: 10px;
       min-width: 150px;
-      background-color: #FFFFFF;
+      background-color: #FAF9F6;
       display: inline-block;
     }
 
     .person.female {
-      border-color: #F45B69;
+      border-color: #FAF9F6;
     }
 
     .person.male {
-      border-color: #456990;
+      border-color: #FAF9F6;
     }
 
     .person div {
