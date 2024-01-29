@@ -51,13 +51,13 @@ permalink: /images/
 *Closer view of Fort Chaffee history marker about the location after the Vietnam War*
 <a href="http://www.chaffeecrossing.com/historic-district/fort-chaffee-history" target="_blank">Fort Chaffee History</a>
 
-![Local Image](/images/image25.png)
+![Local Image](/images/image25.jpg)
 *April 28, 2021 – (L-R) An, Duan, Trang, Vuong, Phuong, Dung sharing their story when they left VN in 1975*
 
 ![Local Image](/images/image6.png)
 *April 28, 2021: (L-R) Trang, Vuong, Phuong, and Dung*
 
-![Local Image](/images/image27.png) ![Local Image](/images/image7.png)
+![Local Image](/images/image27.jpg) ![Local Image](/images/image7.png)
 *April 28, 2021 - Sang Ho (left) and Nong Trinh (right) sharing their story when they left VN in 1975*
 
 ![Local Image](/images/image29.png)
