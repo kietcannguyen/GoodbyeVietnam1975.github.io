@@ -25,6 +25,7 @@ permalink: /images/
 *1978: Hoi and Hung*
 
 ![Local Image](/images/image23.png)
+
 ![Local Image](/images/image21.png)
 *2018: Thuy & Tho wearing the same Republic of Vietnam Air Force uniform*
 
@@ -41,7 +42,9 @@ permalink: /images/
 ![Local Image](/images/image18.png)
 *2023 (L-R) Ngoc, Vuong, Dung, Phuong, Trang, Thuy*
 
-![Local Image](/images/image26.png) ![Local Image](/images/image4.png)
+![Local Image](/images/image26.png) 
+
+![Local Image](/images/image4.png)
 *Aug 2020: An, Tho, and Thuy visited Fort Chaffee, Arkansas; An next to Fort Chaffee history marker*
 
 ![Local Image](/images/image28.png)
