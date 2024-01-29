@@ -214,7 +214,6 @@ categories: misc
     <ul>
       <li>
         <div class="family">
-          <!-- Example family structure -->
           <div class="person child male">
             <div class="name">Dinh Xuan Hoi</div>
           </div>
