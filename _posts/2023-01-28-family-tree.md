@@ -44,11 +44,21 @@ categories: misc
     .node.left::before {
       border-left: none;
       border-right: 20px solid black;
+      transform: translateX(-50%);
     }
 
     .node.right::before {
       border-left: 20px solid black;
       border-right: none;
+      transform: translateX(-50%);
+    }
+
+    .child-container {
+      display: flex;
+    }
+    
+    .child-container > .node {
+      flex: 1;
     }
   </style>
 </head>
@@ -57,23 +67,34 @@ categories: misc
   <div class="tree">
     <div class="node">
       <div>Grandfather</div>
-      <div class="node left">
-        <div>Father</div>
+      <div class="child-container">
         <div class="node left">
-          <div>Child 1</div>
-          <div class="node left"><div>Grandchild 1</div></div>
-          <div class="node right"><div>Grandchild 2</div></div>
+          <div>Father</div>
+          <div class="child-container">
+            <div class="node left">
+              <div>Child 1</div>
+              <div class="child-container">
+                <div class="node left"><div>Grandchild 1</div></div>
+                <div class="node right"><div>Grandchild 2</div></div>
+              </div>
+            </div>
+            <div class="node right">
+              <div>Child 2</div>
+              <div class="child-container">
+                <div class="node left"><div>Grandchild 3</div></div>
+                <div class="node right"><div>Grandchild 4</div></div>
+              </div>
+            </div>
+          </div>
         </div>
         <div class="node right">
-          <div>Child 2</div>
-          <div class="node left"><div>Grandchild 3</div></div>
-          <div class="node right"><div>Grandchild 4</div></div>
+          <div>Uncle</div>
         </div>
       </div>
-      <div class="node right">Uncle</div>
     </div>
   </div>
 
 </body>
 </html>
 {% endraw %}
+
