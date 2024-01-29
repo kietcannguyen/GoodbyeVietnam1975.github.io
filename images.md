@@ -3,7 +3,7 @@ layout: page
 title: Images
 permalink: /images/
 ---
-<img src="/images/image20.png" alt="image" width="100" height="200">
+<img src="/images/image20.png" alt="image" width="300" height="900">
 
 ![Local Image](/images/image8.png)
 ## Aug 1979
