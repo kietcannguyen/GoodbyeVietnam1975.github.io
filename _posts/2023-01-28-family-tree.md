@@ -21,7 +21,7 @@ categories: misc
       justify-content: center;
       align-items: center;
       height: 70vh;
-      margin-top: 30vh;
+      margin-top: 0;
     }
 
     .person {
