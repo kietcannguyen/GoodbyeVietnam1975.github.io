@@ -3,8 +3,7 @@ layout: page
 title: Images
 permalink: /images/
 ---
-
-![Local Image](/images/image20.png)
+<img src="/images/image20.png" alt="image" width="auto" height="50%">
 ![Local Image](/images/image8.png)
 ## Aug 1979
 After 4 years in Minnesota, the West Central Daily Tribune, Willmar, MN, wrote an article about the Vietnamese refugees and their experience settling.
