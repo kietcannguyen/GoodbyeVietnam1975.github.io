@@ -216,11 +216,11 @@ categories: misc
         <div class="family">
           <!-- Example family structure -->
           <div class="person child male">
-            <div class="name">Grandfather</div>
+            <div class="name">Dinh Xuan Hoi</div>
           </div>
           <div class="parent">
             <div class="person female">
-              <div class="name">Grandmother</div>
+              <div class="name">Tran Thi Hung</div>
             </div>
             <ul>
               <li>
