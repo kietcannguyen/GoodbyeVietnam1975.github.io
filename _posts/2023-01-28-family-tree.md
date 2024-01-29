@@ -20,7 +20,7 @@ categories: misc
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 70vh;
+      height: 50vh;
       margin-top: 0;
     }
 
