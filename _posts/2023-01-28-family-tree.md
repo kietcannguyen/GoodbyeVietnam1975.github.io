@@ -5,6 +5,7 @@ categories: misc
 ---
 
 {% raw %}
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -23,78 +24,263 @@ categories: misc
       height: 100vh;
     }
 
-    .node {
+    .person {
+      border: 1px solid black;
+      padding: 10px;
+      min-width: 150px;
+      background-color: #FFFFFF;
+      display: inline-block;
+    }
+
+    .person.female {
+      border-color: #F45B69;
+    }
+
+    .person.male {
+      border-color: #456990;
+    }
+
+    .person div {
       text-align: center;
-      margin: 20px;
+    }
+
+    .person .name {
+      font-size: 16px;
+    }
+
+    .person .parentDrop, .person .spouseDrop, .person .childDrop {
+      border: 1px dashed #000000;
+      width: auto;
+      min-width: 80px;
+      min-height: 80px;
+      display: inline-block;
+      vertical-align: top;
+      position: relative;
+      padding-top: 15px;
+    }
+
+    .person .parentDrop>span,
+    .person .spouseDrop>span,
+    .person .childDrop>span {
+      position: absolute;
+      top: 2px;
+      left: 2px;
+      font-weight: bold;
+    }
+
+    .parentDrop>.person,
+    .spouseDrop>.person,
+    .childDrop>.person {
+      margin-top: 20px;
+    }
+
+    .tree ul {
+      padding-top: 20px;
+      position: relative;
+      transition: all 0.5s;
+      -webkit-transition: all 0.5s;
+      -moz-transition: all 0.5s;
+    }
+
+    .tree li {
+      display: table-cell;
+      text-align: center;
+      list-style-type: none;
+      position: relative;
+      padding: 20px 5px 0 5px;
+      transition: all 0.5s;
+      -webkit-transition: all 0.5s;
+      -moz-transition: all 0.5s;
+    }
+
+    .tree li::before, .tree li::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 50%;
+      border-top: 1px solid #ccc;
+      width: 50%;
+      height: 20px;
+    }
+
+    .tree li::after {
+      right: auto;
+      left: 50%;
+      border-left: 1px solid #ccc;
+    }
+
+    .tree li:only-child::after, .tree li:only-child::before {
+      display: none;
+    }
+
+    .tree li:only-child {
+      padding-top: 0;
+    }
+
+    .tree li:first-child::before, .tree li:last-child::after {
+      border: 0 none;
+    }
+
+    .tree li:last-child::before {
+      border-right: 1px solid #ccc;
+      border-radius: 0 5px 0 0;
+      -webkit-border-radius: 0 5px 0 0;
+      -moz-border-radius: 0 5px 0 0;
+    }
+
+    .tree li:first-child::after {
+      border-radius: 5px 0 0 0;
+      -webkit-border-radius: 5px 0 0 0;
+      -moz-border-radius: 5px 0 0 0;
+    }
+
+    .tree ul ul::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 50%;
+      border-left: 1px solid #ccc;
+      width: 0;
+      height: 20px;
+    }
+
+    .tree li .parent {
+      transition: all 0.5s;
+      -webkit-transition: all 0.5s;
+      -moz-transition: all 0.5s;
+      margin-top: 10px;
+    }
+
+    .tree li .parent::before {
+      content: '';
+      position: absolute;
+      top: 40px;
+      left: 50%;
+      border-left: 1px solid #ccc;
+      border-right: 1px solid #ccc;
+      width: 3px;
+      height: 10px;
+    }
+
+    .tree li .family {
       position: relative;
     }
 
-    .node::before {
-      content: "";
-      position: absolute;
-      top: -20px;
+    .tree li .family .spouse {
+      position:
+            .absolute;
+      top: 0;
       left: 50%;
-      width: 0;
-      height: 20px;
-      border-style: solid;
-      border-width: 1px;
-      border-color: black;
+      margin-left: 95px;
     }
 
-    .node.left::before {
-      border-left: none;
-      border-right: 20px solid black;
-      transform: translateX(-50%);
+    .tree li .family .spouse::before {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: -10px;
+      border-top: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
+      width: 10px;
+      height: 3px;
     }
 
-    .node.right::before {
-      border-left: 20px solid black;
-      border-right: none;
-      transform: translateX(-50%);
+    .tree li .child:hover,
+    .tree li .child:hover+.parent .person,
+    .tree li .parent .person:hover,
+    .tree li .child:hover+.parent .person+ul li .child,
+    .tree li .parent .person:hover+ul li .child {
+      background: #c8e4f8;
+      color: #000;
+      border: 1px solid #94a0b4;
     }
 
-    .child-container {
-      display: flex;
-    }
-    
-    .child-container > .node {
-      flex: 1;
+    .tree li .child:hover+.parent::before,
+    .tree li .child:hover+.parent .person+ul li::after,
+    .tree li .parent .person:hover+ul li::after,
+    .tree li .child:hover+.parent .person+ul li::before,
+    .tree li .parent .person:hover+ul li::before,
+    .tree li .child:hover+.parent .person+ul::before,
+    .tree li .parent .person:hover+ul::before,
+    .tree li .child:hover+.parent .person+ul ul::before,
+    .tree li .parent .person:hover+ul ul::before {
+      border-color: #94a0b4;
     }
   </style>
 </head>
 <body>
 
   <div class="tree">
-    <div class="node">
-      <div>Grandfather</div>
-      <div class="child-container">
-        <div class="node left">
-          <div>Father</div>
-          <div class="child-container">
-            <div class="node left">
-              <div>Child 1</div>
-              <div class="child-container">
-                <div class="node left"><div>Grandchild 1</div></div>
-                <div class="node right"><div>Grandchild 2</div></div>
-              </div>
+    <ul>
+      <li>
+        <div class="family">
+          <!-- Example family structure -->
+          <div class="person child male">
+            <div class="name">Grandfather</div>
+          </div>
+          <div class="parent">
+            <div class="person female">
+              <div class="name">Grandmother</div>
             </div>
-            <div class="node right">
-              <div>Child 2</div>
-              <div class="child-container">
-                <div class="node left"><div>Grandchild 3</div></div>
-                <div class="node right"><div>Grandchild 4</div></div>
-              </div>
-            </div>
+            <ul>
+              <li>
+                <div class="family" style="width: 172px">
+                  <div class="person child male">
+                    <div class="name">Uncle</div>
+                  </div>
+                  <div class="parent">
+                    <div class="person female">
+                      <div class="name">Wife of Uncle</div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="family" style="width: 172px">
+                  <div class="person child female">
+                    <div class="name">Aunt</div>
+                  </div>
+                  <div class="parent">
+                    <div class="person male">
+                      <div class="name">Husband of Aunt</div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="family" style="width: 344px">
+                  <div class="person child female">
+                    <div class="name">Mother</div>
+                  </div>
+                  <div class="parent">
+                    <div class="person male">
+                      <div class="name">Father</div>
+                    </div>
+                    <ul>
+                      <li>
+                        <div class="person child male">
+                          <div class="name">Me</div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="person child female">
+                          <div class="name">Sister</div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="person spouse male">
+                    <div class="name">Spouse</div>
+                  </div>
+                </div>
+              </li>
+            </ul>
           </div>
         </div>
-        <div class="node right">
-          <div>Uncle</div>
-        </div>
-      </div>
-    </div>
+      </li>
+    </ul>
   </div>
 
 </body>
 </html>
 {% endraw %}
-
