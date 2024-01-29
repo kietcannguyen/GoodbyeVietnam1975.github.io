@@ -5,7 +5,6 @@ categories: misc
 ---
 
 {% raw %}
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -17,52 +16,62 @@ categories: misc
       margin: 20px;
     }
 
-    .family-tree {
+    .tree {
       display: flex;
       justify-content: center;
+      align-items: center;
+      height: 100vh;
     }
 
-    .person {
+    .node {
       text-align: center;
       margin: 20px;
+      position: relative;
     }
 
-    .generation {
-      margin-bottom: 40px;
+    .node::before {
+      content: "";
+      position: absolute;
+      top: -20px;
+      left: 50%;
+      width: 0;
+      height: 20px;
+      border-style: solid;
+      border-width: 1px;
+      border-color: black;
     }
 
-    .spouse::before {
-      content: "❤";
+    .node.left::before {
+      border-left: none;
+      border-right: 20px solid black;
+    }
+
+    .node.right::before {
+      border-left: 20px solid black;
+      border-right: none;
     }
   </style>
 </head>
 <body>
 
-  <div class="family-tree">
-
-    <div class="generation">
-      <div class="person">Grandfather</div>
-      <div class="person spouse">Grandmother</div>
+  <div class="tree">
+    <div class="node">
+      <div>Grandfather</div>
+      <div class="node left">
+        <div>Father</div>
+        <div class="node left">
+          <div>Child 1</div>
+          <div class="node left"><div>Grandchild 1</div></div>
+          <div class="node right"><div>Grandchild 2</div></div>
+        </div>
+        <div class="node right">
+          <div>Child 2</div>
+          <div class="node left"><div>Grandchild 3</div></div>
+          <div class="node right"><div>Grandchild 4</div></div>
+        </div>
+      </div>
+      <div class="node right">Uncle</div>
     </div>
-
-    <div class="generation">
-      <div class="person">Father</div>
-      <div class="person spouse">Mother</div>
-      <div class="person">Uncle</div>
-    </div>
-
-    <div class="generation">
-      <div class="person">You</div>
-      <div class="person spouse">Spouse</div>
-      <div class="person">Sibling</div>
-      <div class="person spouse">Sibling's Spouse</div>
-    </div>
-
-    <div class="generation">
-      <div class="person">Child 1</div>
-      <div class="person">Child 2</div>
-    </div>
-
   </div>
 
 </body>
