@@ -20,8 +20,8 @@ categories: misc
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 90vh;
-      margin-top: 20vh;
+      height: 50vh;
+      margin-top: 50vh;
     }
 
     .person {
