@@ -5,7 +5,6 @@ categories: misc
 ---
 
 {% raw %}
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -21,7 +20,8 @@ categories: misc
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh;
+      height: 70vh;
+      margin-top: 20vh;
     }
 
     .person {
