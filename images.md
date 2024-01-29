@@ -19,6 +19,7 @@ permalink: /images/
 
 ![Local Image](/images/image22.png)
 *Family trip photo taken in 1978*
+
 *(L-R) Duan, Nong, Vuong, Dung, Ngoc, Doan, Tram Anh, Thuy, An, Minh, Tho, Sang, Phuong, Trang*
 
 ![Local Image](/images/image9.png)
@@ -34,6 +35,7 @@ permalink: /images/
 
 ![Local Image](/images/image13.png)
 *Top (L-R) Hiep, Sang, Nong, Tho, Dao*
+
 *Bottom (L-R) Trang, Phuong, Vuong, Thuy, Dung*
 
 ![Local Image](/images/image24.png)
@@ -49,6 +51,7 @@ permalink: /images/
 
 ![Local Image](/images/image28.png)
 *Closer view of Fort Chaffee history marker about the location after the Vietnam War*
+
 <a href="http://www.chaffeecrossing.com/historic-district/fort-chaffee-history" target="_blank">Fort Chaffee History</a>
 
 ![Local Image](/images/image25.jpg)
