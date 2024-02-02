@@ -7,14 +7,17 @@
       <div class="footer-col">
         
       {%- if site.author %}
+        <div class="footer-col">
+          <p>{{ "Goodbye Vietnam 1875 Written by An Nguyen" | escape }}</p>
+        </div>
+        
         <ul class="contact-list">
           {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
-            <li class="p-name">{{ "HHHIEU" | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-            <li><a class="u-email" href="mailto:{{ hieucannguyen1@gmail.com }}">{{ hieucannguyen1@gmail.com }}</a></li>
+            <li><a class="u-email" href="mailto:{{ hieucannguyen1@gmail.com }}">{{ "hieucannguyen1@gmail.com" }}</a></li>
           {%- endif %}
         </ul>
       {%- endif %}
