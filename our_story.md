@@ -73,7 +73,7 @@ The 16 South Vietnamese people mentioned in this story never planned to leave th
 
 ![Local Image](/images/image16.png){:width="300px"} ![Local Image](/images/image5.png){:width="300px"}
 
-Photo: Tho next to the Cessna
+Photo: [Tho](/images/image16.png) next to the Cessna
 
 ### Nha Trang
 **Mid-Afternoon** – Tho arrived at Nha Trang Air Force base to refuel his plane and went to see his family. He went to his in-law’s house to meet his wife and infant daughter. He was informed that his mother, sister, brother-in-law, nieces, and nephews from Da Lat were in Nha Trang since the VC invaded their town. They were staying at a relative’s home. Tho went to visit his mother and family and took his wife and daughter along. Once he arrived, his mother held his daughter. This was the first and last time she will know her grand-daughter. It was a very short visit. After they said their goodbye, he took his wife and daughter back to his in-laws. He could not stay in Nha Trang for long. He told them he will be heading to Saigon stationed at Tan Son Nhut Air Force base. He could not take his family with him since he was on duty and feared punishment for flying women and children on the aircraft that was unauthorized. 
